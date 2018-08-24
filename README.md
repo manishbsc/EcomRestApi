@@ -8,4 +8,4 @@ To run
 
 3.Run node index.js
 
-4.Documentation link for any futher Query https://manishbsc.github.io/EcomRestApi/
+4.Documentation link for any futher Query https://manishbsc.github.io/Ecomdocumentation/
