@@ -2,7 +2,7 @@
 //app config is an object
 let appConfig={};
 
-appConfig.port=3000;
+appConfig.port=4000;
 //all the client are  allowed to accesss via *
 appConfig.allowedCorsOrigin="*";
 appConfig.env="dev";
